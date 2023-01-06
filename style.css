@@ -1,0 +1,45 @@
+h1{
+    color: blue;
+    text-align: center;
+    font-size: 500%;
+}
+
+h3{
+    color: green;
+    text-align: center;
+    font-size: 150%;
+}
+
+h2{
+    color: red;
+    text-align: center;
+}
+
+body{
+    background:black;
+}
+
+pre{
+    color: white;
+    font-size: 200%;
+    
+}
+
+p{
+    color: white;
+    font-size: 400%;
+    text-align: center;
+}
+
+div {
+    color: white;
+    font-size: 50%;
+
+}
+
+button{
+    height: 50px;
+    width: 94px;
+    
+}
+
